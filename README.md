@@ -48,29 +48,34 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
 </div>
 
 ###
+
 ---
 
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de racha" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Theo-17&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="gráfico de racha" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas generales" width="49%" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="estatisticas generales" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="lenguajes más usados" />
 </p>
 
 ---
 
-## 👾 Gráfico de Actividad
+## 👾 Gráfico de Contribuciones (Pacman)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theo-17&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Gráfico de actividad de contribuciones" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
+  <img alt="gráfico de contribuciones pacman" src="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ## 📬 Conéctate conmigo
 
+Si deseas conocer más sobre mi trabajo o colaborar en un proyecto, puedes contactarme a través de mis canales oficiales o revisar mi portafolio web completo.
 Si deseas conocer más sobre mi trabajo o colaborar en un proyecto, puedes contactarme a través de mis canales oficiales o revisar mi portafolio web completo.
