@@ -54,7 +54,7 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 ---
