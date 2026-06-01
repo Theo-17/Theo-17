@@ -1,59 +1,73 @@
-# ¡Hola! Soy Mateo Espinoza 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
+</div>
 
-<p align="left">
+###
+
+<div align="center">
   <a href="https://me-espinoza.cypher-code.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=chrome&label=&color=12100E&logoColor=white&style=for-the-badge" height="25" alt="website logo" />
   </a>
   <a href="https://www.linkedin.com/in/mateo-espinoza-3a807a276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:mateo.espinoza1701@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/static/v1?message=Hotmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
   </a>
-</p>
+</div>
 
-Soy **Ingeniero en Software** graduado de la Escuela Politécnica Nacional (EPN), especializado en el desarrollo **Full Stack** y la modernización de arquitecturas digitales. Actualmente colidero el área tecnológica en una empresa de servicios gráficos impulsando soluciones digitales escalables, y me desempeño como **Desarrollador Full Stack en Zeus.net**.
+###
 
-Me apasiona liderar el ciclo de vida completo de proyectos tecnológicos, optimizar sistemas de backend robustos y desplegar aplicaciones eficientes en la nube utilizando metodologías ágiles (Scrum/Kanban).
+<h1 align="center">Hey there 👋 I'm Mateo Espinoza</h1>
 
----
+###
 
-## 🛠️ Tecnologías y Herramientas
+<h3 align="left">👩‍💻  About Me</h3>
 
-Aquí tienes el conjunto de lenguajes, frameworks y herramientas que utilizo en mi día a día para construir software escalable:
+###
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,cpp,react,nextjs,nestjs,nodejs,django,dotnet,flutter,tailwind,html,css,postgres,firebase,supabase,docker,git&theme=dark" />
-  </a>
+Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (EPN), especializado en el desarrollo Full Stack y la modernización de arquitecturas digitales.<br><br>
+- 🔭 Actualmente me desempeño como <b>Desarrollador Full Stack en Zeus.net</b> y colidero el área tecnológica en una empresa de servicios gráficos.<br>
+- 📚 Constantemente diseñando soluciones digitales escalables utilizando metodologías ágiles como Scrum y Kanban.<br>
+- ⚡ Me apasiona optimizar sistemas de backend robustos, automatizar flujos de datos e implementar aplicaciones móviles de alta disponibilidad.
 </p>
 
----
+###
 
-## 🚀 Proyectos Destacados
+<h3 align="left">🛠️ Languages and tools</h3>
 
-Aquí tienes algunos de los sistemas y arquitecturas en los que he trabajado activamente:
+###
 
-* **SQA-Tool:** Plataforma analítica modular (NestJS/Next.js 15/PostgreSQL) enfocada en la evaluación de calidad de software bajo la norma ISO/IEC 25000, integrando inteligencia artificial (Google Generative AI) para automatizar informes técnicos.
-* **Zeus Task:** Aplicación móvil empresarial de mensajería y gestión de tareas en tiempo real (React Native/Expo/FCM), diseñada para optimizar los flujos operativos corporativos.
-* **Sistema de Inventarios Zeus:** Desarrollo e implementación de un software de control de stock automatizado (React/Node.js) enfocado en la precisión de datos y la eliminación de cargas administrativas manuales.
-* **CRM Platform:** Sistema Full Stack (React/Node.js/PostgreSQL) estructurado con dashboards interactivos para la optimización y automatización de embudos de venta y gestión de leads.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,cpp&theme=dark" height="45" alt="languages" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,django,dotnet,flutter,tailwind&theme=dark" height="45" alt="frameworks" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres,svg,firebase,supabase,docker,git&theme=dark" height="45" alt="tools" />
+</div>
 
----
+###
 
-## 📊 Mis Estadísticas de GitHub
+<h3 align="left">🔥  My Stats :</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Theo-17&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+</div>
 
----
+###
 
-## 📬 Conéctate conmigo
+<h3 align="left">👾 Contribution Graph</h3>
 
-Si deseas conocer más sobre mi trabajo o colaborar en un proyecto, puedes contactarme a través de mis canales oficiales o revisar mi portafolio web completo.
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
