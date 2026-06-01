@@ -58,9 +58,11 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="estatisticas generales" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="lenguajes más usados" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="estadísticas generales" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="lenguajes más usados" />
 </p>
 
 ---
