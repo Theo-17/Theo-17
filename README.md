@@ -51,24 +51,6 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak Stats" width="100%" />
-</p>
-
----
-
-## 👾 Gráfico de Contribuciones (Pacman)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
-  <img alt="gráfico de contribuciones pacman" src="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## 📬 Conéctate conmigo
 
 Si deseas conocer más sobre mi trabajo o colaborar en un proyecto, puedes contactarme a través de mis canales oficiales o revisar mi portafolio web completo.
