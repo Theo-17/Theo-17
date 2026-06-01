@@ -54,15 +54,12 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Theo-17&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="gráfico de racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="estadísticas generales" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 ---
