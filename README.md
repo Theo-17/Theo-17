@@ -1,28 +1,28 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF de Programación" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://me-espinoza.cypher-code.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=chrome&label=&color=12100E&logoColor=white&style=for-the-badge" height="25" alt="website logo" />
+    <img src="https://img.shields.io/static/v1?message=Sitio%20Web&logo=chrome&label=&color=12100E&logoColor=white&style=for-the-badge" height="25" alt="logotipo de sitio web" />
   </a>
   <a href="https://www.linkedin.com/in/mateo-espinoza-3a807a276" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="logotipo de linkedin" />
   </a>
   <a href="mailto:mateo.espinoza1701@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Hotmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
+    <img src="https://img.shields.io/static/v1?message=Hotmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="logotipo de correo" />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Mateo Espinoza</h1>
+<h1 align="center">¡Hola! 👋 Soy Mateo Espinoza</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre Mí</h3>
 
 ###
 
@@ -35,39 +35,39 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
 
 ###
 
-<h3 align="left">🛠️ Languages and tools</h3>
+<h3 align="left">🛠️ Lenguajes y Herramientas</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,cpp&theme=dark" height="45" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,cpp&theme=dark" height="45" alt="lenguajes" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,django,dotnet,flutter,tailwind&theme=dark" height="45" alt="frameworks" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres,svg,firebase,supabase,docker,git&theme=dark" height="45" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,svg,firebase,supabase,docker,git&theme=dark" height="45" alt="herramientas" />
 </div>
 
 ###
 
-<h3 align="left">🔥  My Stats :</h3>
+<h3 align="left">🔥 Mis Estadísticas :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Theo-17&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Theo-17&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="gráfico de racha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="gráfico de estadísticas" />
 </div>
 
 ###
 
-<h3 align="left">👾 Contribution Graph</h3>
+<h3 align="left">👾 Gráfico de Contribuciones</h3>
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
+  <img alt="gráfico de contribuciones pacman" src="https://raw.githubusercontent.com/Theo-17/Theo-17/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
