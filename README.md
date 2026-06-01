@@ -57,11 +57,6 @@ Soy <b>Ingeniero en Software</b> graduado de la Escuela Politécnica Nacional (E
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theo-17&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theo-17&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
 ---
 
 ## 👾 Gráfico de Contribuciones (Pacman)
